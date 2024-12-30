@@ -1,4 +1,5 @@
 # PathCraft
+[![Build CI](https://github.com/petemihaylov/path-craft/actions/workflows/build.yml/badge.svg)](https://github.com/petemihaylov/path-craft/actions/workflows/build.yml)
 
 An interactive map tool for drawing and exporting routes. Built with React, Leaflet, and Tailwind CSS.
 
