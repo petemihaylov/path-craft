@@ -12,6 +12,28 @@ An interactive map tool for drawing and exporting routes. Built with React, Leaf
 - 📋 Copy coordinates with one click
 - 🔄 Export route points in TypeScript format
 
+## Getting Started
+
+Clone the repo:
+```bash
+   git clone https://github.com/petemihaylov/path-craft.git
+```
+
+```bash
+# Install dependencies
+npm install
+```
+
+```bash
+# Start development server
+npm run dev
+```
+
+```bash
+# Build for production
+npm run build
+```
+
 ## Usage
 
 1. **Add Points**
@@ -30,19 +52,6 @@ An interactive map tool for drawing and exporting routes. Built with React, Leaf
 4. **Export Route**
    - Click "Export Route" to copy all points in TypeScript format
    - Points are exported as `LatLngTuple[]` with start/end comments
-
-## Development
-
-```bash
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-```
 
 ## License
 
