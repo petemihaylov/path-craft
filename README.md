@@ -11,9 +11,6 @@ An interactive map tool for drawing and exporting routes. Built with React, Leaf
 - 🔍 Search for locations
 - 📋 Copy coordinates with one click
 - 🔄 Export route points in TypeScript format
-- ❌ Remove individual points
-- 🗑️ Clear all points
-- 🎨 Custom styled markers and dashed lines
 
 ## Usage
 
@@ -47,16 +44,6 @@ npm run dev
 npm run build
 ```
 
-## Technologies Used
-
-- React
-- React Leaflet
-- Tailwind CSS
-- TypeScript
-- FontAwesome Icons
-- Lucide Icons
-- Radix UI
-
 ## License
 
-MIT
+[MIT](https://github.com/petemihaylov/path-craft/blob/master/LICENSE)
