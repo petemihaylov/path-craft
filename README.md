@@ -15,9 +15,9 @@ An interactive map tool for drawing and exporting routes. Built with React, Leaf
 
 ## Getting Started
 
-Clone the repo:
 ```bash
-   git clone https://github.com/petemihaylov/path-craft.git
+# Clone the repository
+git clone https://github.com/petemihaylov/path-craft.git
 ```
 
 ```bash
