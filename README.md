@@ -34,25 +34,6 @@ npm run dev
 npm run build
 ```
 
-## Usage
-
-1. **Add Points**
-   - Click anywhere on the map to add a point
-   - Points are automatically connected in order
-
-2. **Search Locations**
-   - Use the search bar to find specific locations
-   - Click the search icon or press Enter
-
-3. **Manage Points**
-   - Click the clipboard icon to copy individual point coordinates
-   - Click the trash icon to remove a specific point
-   - Use "Clear All" to remove all points
-
-4. **Export Route**
-   - Click "Export Route" to copy all points in TypeScript format
-   - Points are exported as `LatLngTuple[]` with start/end comments
-
 ## License
 
 [MIT](https://github.com/petemihaylov/path-craft/blob/master/LICENSE)
